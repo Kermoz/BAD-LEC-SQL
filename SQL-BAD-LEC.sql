@@ -1,0 +1,3 @@
+CREATE TABLE MsProduct(
+ProductID Char(9) PRIMARY KEY NOT NULL
+)
